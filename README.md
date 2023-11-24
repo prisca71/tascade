@@ -49,6 +49,20 @@
     python3 plots/characterization.py -p 6 -m 2
 
 
+## ANIMATION FIGURE 9
+
+### TASCADE
+
+![heatmap_tascade](https://github.com/prisca71/tascade/assets/151456861/ad3c8bfd-4a73-4176-a381-417d00ffbc57)
+
+
+
+
+### DALOREX
+
+![heatmap_dalorex](https://github.com/prisca71/tascade/assets/151456861/9a77f5e9-d902-47a1-a01a-d589234dcaa1)
+
+
 
 # Generate Runs
 
