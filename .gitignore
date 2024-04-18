@@ -1,0 +1,14 @@
+*.run
+*.txt
+*.pyc
+*.bin
+*.tsv
+*.out
+batch.sh
+sim_counters/*
+plots/heatmaps/*
+plots/characterization/*
+plots/temp/*
+*.dSYM
+*env_gui
+*.DS_Store
